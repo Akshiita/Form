@@ -1,0 +1,19 @@
+.colors{
+  height : 800px;
+  background-color: rgba(80, 84, 84, 0.221);
+
+
+}
+input[type=text] {
+  width:50%;
+  margin:1%;
+  box-sizing: border-box;
+  
+}
+input[type=password] {
+  width:50%;
+  margin:1%;
+  box-sizing: border-box;
+  
+}
+
